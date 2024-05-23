@@ -1,6 +1,6 @@
-package com.startupcode._playground;
+package com.startupcode.thread;
 
-public class DeadlockExample {
+public class MainDeadlockCase {
     public static void main(String[] args) {
         // 두 개의 리소스 객체
         final Object resource1 = new Object();

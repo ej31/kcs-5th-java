@@ -1,4 +1,4 @@
-package com.startupcode.thread.semaphore;
+package com.startupcode.thread._semaphore;
 
 import java.util.concurrent.Semaphore;
 

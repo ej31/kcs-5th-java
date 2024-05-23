@@ -1,4 +1,4 @@
-package com.startupcode.thread.semaphore;
+package com.startupcode.thread._semaphore;
 
 class SharedResourceWithoutSemaphore implements SharedResource {
     private int count = 0;

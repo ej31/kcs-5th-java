@@ -1,7 +1,5 @@
-package com.startupcode.thread.semaphore;
+package com.startupcode.thread._semaphore;
 
-
-import java.sql.Array;
 
 public class MainSemaphore {
     public static void main(String[] args) throws InterruptedException {
